@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Otp_Ret_Karix
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: naresh
+Implementation-Vendor-Id: com.servpro
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/Otp_Ret_Kari
+ x/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
